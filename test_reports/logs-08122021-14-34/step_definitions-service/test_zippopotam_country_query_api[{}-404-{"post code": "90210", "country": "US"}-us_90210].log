@@ -1,0 +1,10 @@
+2021-12-08T14:34:27.392958	INFO	Service URL captured --> Key: zippopotam_serviceValue: https://api.zippopotam.us/
+2021-12-08T14:34:27.393722	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:34:28.117887	INFO	API Method: GET | URL:- https://api.zippopotam.us/us/90210
+2021-12-08T14:34:28.118351	INFO	Status Code:- 200
+2021-12-08T14:34:28.118715	INFO	API Response:- 
+2021-12-08T14:34:28.119052	INFO	{"post code": "90210", "country": "United States", "country abbreviation": "US", "places": [{"place name": "Beverly Hills", "longitude": "-118.4065", "state": "California", "state abbreviation": "CA", "latitude": "34.0901"}]}
+2021-12-08T14:34:28.119352	INFO	Time taken:- 0:00:00.719293
+2021-12-08T14:34:28.119703	INFO	*******
+2021-12-08T14:34:28.258344	ERROR	=============== Setup Result ====> failed >>> ===============
+2021-12-08T14:34:28.258726	ERROR	=============== Failure Reason ==> <ExceptionInfo AssertionError('Expecting Status code: 404Actual Status Code is: 200\nassert 200 == 404\n +  where 200 = <Response [200]>.status_code') tblen=4> ===============

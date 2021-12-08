@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pytest = "*"
+pytest-bdd = "*"
+requests = "*"
+selenium = "*"
+ipdb = "*"
+allure-pytest = "*"
+allure-python-commons = "*"
+allure-python-commons-test = "*"
+dpath = "*"
+
+[requires]
+python_version = "3.7"

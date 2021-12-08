@@ -1,0 +1,20 @@
+2021-12-08T14:34:26.658515	INFO	Service URL captured --> Key: zippopotam_serviceValue: https://api.zippopotam.us/
+2021-12-08T14:34:26.659266	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:34:27.386885	INFO	API Method: GET | URL:- https://api.zippopotam.us/us/110001
+2021-12-08T14:34:27.387356	INFO	Status Code:- 404
+2021-12-08T14:34:27.387679	INFO	API Response:- 
+2021-12-08T14:34:27.387975	INFO	{}
+2021-12-08T14:34:27.388359	INFO	Time taken:- 0:00:00.722837
+2021-12-08T14:34:27.388655	INFO	*******
+2021-12-08T14:34:27.389633	INFO	Result JSON -> []
+2021-12-08T14:34:27.390292	INFO	=============== TEST RESULT ====> passed ===============
+2021-12-08T14:34:58.649139	INFO	Service URL captured --> Key: zippopotam_serviceValue: https://api.zippopotam.us/
+2021-12-08T14:34:58.649856	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:34:59.371604	INFO	API Method: GET | URL:- https://api.zippopotam.us/us/110001
+2021-12-08T14:34:59.372192	INFO	Status Code:- 404
+2021-12-08T14:34:59.372642	INFO	API Response:- 
+2021-12-08T14:34:59.373058	INFO	{}
+2021-12-08T14:34:59.373426	INFO	Time taken:- 0:00:00.715970
+2021-12-08T14:34:59.373773	INFO	*******
+2021-12-08T14:34:59.374957	INFO	Result JSON -> []
+2021-12-08T14:34:59.376271	INFO	=============== TEST RESULT ====> passed ===============

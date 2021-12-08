@@ -1,0 +1,11 @@
+2021-12-08T14:34:59.380192	INFO	Service URL captured --> Key: zippopotam_serviceValue: https://api.zippopotam.us/
+2021-12-08T14:34:59.381134	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:35:00.117445	INFO	API Method: GET | URL:- https://api.zippopotam.us/us/90210
+2021-12-08T14:35:00.117957	INFO	Status Code:- 200
+2021-12-08T14:35:00.118362	INFO	API Response:- 
+2021-12-08T14:35:00.118817	INFO	{"post code": "90210", "country": "United States", "country abbreviation": "US", "places": [{"place name": "Beverly Hills", "longitude": "-118.4065", "state": "California", "state abbreviation": "CA", "latitude": "34.0901"}]}
+2021-12-08T14:35:00.119859	INFO	Time taken:- 0:00:00.730893
+2021-12-08T14:35:00.120834	INFO	*******
+2021-12-08T14:35:00.122939	INFO	Result JSON -> [{'json_path': 'country', 'expected': 'US', 'actual': 'United States'}]
+2021-12-08T14:35:00.263539	ERROR	=============== Setup Result ====> failed >>> ===============
+2021-12-08T14:35:00.263978	ERROR	=============== Failure Reason ==> <ExceptionInfo AssertionError('[\n      {\n          "json_path": "country",\n          "expected": "US",\n          "actual": "Unite...tem: {\'actual\': \'United States\', \'expected\': \'US\', \'json_path\': \'country\'}\n  Use -v to get the full diff') tblen=4> ===============

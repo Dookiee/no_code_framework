@@ -1,0 +1,12 @@
+{
+  "test": {
+    "duck_duck_go_service": "https://api.duckduckgo.com/",
+    "google_service": "https://www.googleapis.com/",
+    "zippopotam_service": "https://api.zippopotam.us/"
+  },
+  "prod": {
+    "duck_duck_go_service": "https://api.duckduckgo.com/",
+    "google_service": "https://www.googleapis.com/",
+    "zippopotam_service": "https://api.zippopotam.us/"
+  }
+}

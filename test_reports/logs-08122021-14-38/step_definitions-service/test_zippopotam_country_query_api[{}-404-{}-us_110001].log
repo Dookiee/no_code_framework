@@ -1,0 +1,10 @@
+2021-12-08T14:38:44.839430	INFO	Service URL captured --> Key: zippopotam_serviceValue: https://api.zippopotam.us/
+2021-12-08T14:38:44.840276	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:38:45.565173	INFO	API Method: GET | URL:- https://api.zippopotam.us/us/110001
+2021-12-08T14:38:45.565612	INFO	Status Code:- 404
+2021-12-08T14:38:45.566008	INFO	API Response:- 
+2021-12-08T14:38:45.566319	INFO	{}
+2021-12-08T14:38:45.566615	INFO	Time taken:- 0:00:00.719812
+2021-12-08T14:38:45.566900	INFO	*******
+2021-12-08T14:38:45.568059	INFO	Result JSON -> []
+2021-12-08T14:38:45.568725	INFO	=============== TEST RESULT ====> passed ===============

@@ -1,0 +1,10 @@
+2021-12-08T14:36:16.274138	INFO	Service URL captured --> Key: zippopotam_serviceValue: https://api.zippopotam.us/
+2021-12-08T14:36:16.274849	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:36:17.244879	INFO	API Method: GET | URL:- https://api.zippopotam.us/us/90210
+2021-12-08T14:36:17.245351	INFO	Status Code:- 200
+2021-12-08T14:36:17.245722	INFO	API Response:- 
+2021-12-08T14:36:17.246072	INFO	{"post code": "90210", "country": "United States", "country abbreviation": "US", "places": [{"place name": "Beverly Hills", "longitude": "-118.4065", "state": "California", "state abbreviation": "CA", "latitude": "34.0901"}]}
+2021-12-08T14:36:17.246409	INFO	Time taken:- 0:00:00.730258
+2021-12-08T14:36:17.246738	INFO	*******
+2021-12-08T14:36:17.249034	INFO	Result JSON -> []
+2021-12-08T14:36:17.249706	INFO	=============== TEST RESULT ====> passed ===============

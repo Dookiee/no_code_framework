@@ -1,0 +1,11 @@
+{
+  "google_service": {
+    "custom_query": "customsearch/v1?"
+  },
+  "duck_duck_go_service": {
+    "custom_query": ""
+  },
+  "zippopotam_service": {
+    "country_query": ""
+  }
+}

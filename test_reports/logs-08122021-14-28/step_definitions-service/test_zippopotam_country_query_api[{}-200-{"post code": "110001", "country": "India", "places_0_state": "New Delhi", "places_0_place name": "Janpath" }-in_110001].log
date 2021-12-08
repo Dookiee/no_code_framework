@@ -1,0 +1,8 @@
+2021-12-08T14:28:02.702996	INFO	Service URL captured --> Key: zippopotam_serviceValue: api.zippopotam.us
+2021-12-08T14:28:02.703783	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:28:02.759364	ERROR	=============== Setup Result ====> failed >>> ===============
+2021-12-08T14:28:02.759823	ERROR	=============== Failure Reason ==> <ExceptionInfo MissingSchema("Invalid URL 'api.zippopotam.usin/110001': No schema supplied. Perhaps you meant http://api.zippopotam.usin/110001?") tblen=11> ===============
+2021-12-08T14:28:55.844129	INFO	Service URL captured --> Key: zippopotam_serviceValue: api.zippopotam.us/
+2021-12-08T14:28:55.844807	INFO	Service URL captured --> Key: zippopotam_serviceValue: 
+2021-12-08T14:28:55.903250	ERROR	=============== Setup Result ====> failed >>> ===============
+2021-12-08T14:28:55.903758	ERROR	=============== Failure Reason ==> <ExceptionInfo MissingSchema("Invalid URL 'api.zippopotam.us/in/110001': No schema supplied. Perhaps you meant http://api.zippopotam.us/in/110001?") tblen=11> ===============

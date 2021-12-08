@@ -1,0 +1,1 @@
+{"uuid": "c0f971fd-3edb-4c5e-a11d-3ac63df8c491", "befores": [{"name": "pytestbdd_when_Create {operation:String} Request in {service_name:String} {route:String} API: {query_param:String} as query param: {query_string:String} as query string", "status": "passed", "start": 1638954525576, "stop": 1638954525576}], "start": 1638954525576, "stop": 1638954526432}
